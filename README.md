@@ -1,10 +1,14 @@
 # Spring-Cloud-Function-SpEL-poc-and-exp
 
+影响版本:
 
+3.0.0.RELEASE <= Spring Cloud Function <= 3.2.2
 
 
 Spring-cloud-function RCE  POC and  EXP:
 
+运行漏洞环境:
+java -jar demo-0.0.1-SNAPSHOT.jar
 
 用法:
 运行python spring-rec.python
